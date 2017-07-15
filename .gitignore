@@ -3,3 +3,5 @@ pin-tag2/data/*
 .DS_Store
 */.DS_Store
 .
+.ipynb_checkpoints/*
+
