@@ -1,5 +1,6 @@
-pin-tag2/data/keys/*
-pin-tag2/data/*
+notebooks/data/keys/*
+notebooks/data/*
+notebooks/.ipynb_checkpoints/*
 .DS_Store
 */.DS_Store
 .
